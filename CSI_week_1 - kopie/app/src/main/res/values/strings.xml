@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">"CSI_week_1 "</string>
+    <string name="name">name</string>
+    <string name="piet_vanderburg">piet_vandenburg</string>
+    <string name="gender">gender</string>
+    <string name="male">male</string>
+    <string name="age">age</string>
+    <string name="_45">32</string>
+    <string name="bounty">bounty</string>
+    <string name="_30_000">_30_000</string>
+    <string name="details">Details</string>
+    <string name="description">description</string>
+    <string name="lorem">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce porta convallis ligula sed suscipit. Donec pretium varius tortor, vitae euismod risus interdum in. Fusce mi tortor, cursus non hendrerit a, dignissim a enim. Curabitur in velit facilisis, pellentesque purus nec, placerat orci. Suspendisse augue massa, pulvinar hendrerit sagittis quis, dictum in augue. Nunc id interdum leo, quis efficitur purus. Nam quam ipsum, porttitor quis suscipit ut, porta vel sem. Aenean lectus ipsum, commodo ut vehicula vel, pretium at lorem. Cras eu interdum nisi. Proin tincidunt commodo efficitur.
+
+Mauris viverra justo hendrerit lectus varius bibendum. Cras ultricies porttitor augue, at lacinia tortor porttitor eu. Cras consequat neque in odio lacinia, in tempus quam iaculis. Praesent fermentum posuere quam, eget rhoncus justo commodo iaculis. Phasellus interdum vestibulum tortor, nec vehicula odio laoreet vitae. In laoreet viverra blandit. Integer lobortis velit sit amet semper tincidunt. Vivamus tristique aliquam aliquet. Pellentesque volutpat arcu sit amet massa fermentum vestibulum. Ut vel orci ligula.
+
+Integer maximus nunc sit amet ante suscipit condimentum. Quisque consequat porttitor massa, ac accumsan metus semper at. Phasellus vulputate tellus varius, suscipit lacus quis, dictum leo. Nulla sit amet ipsum quis massa aliquam semper eu auctor velit. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Maecenas tempus vel erat quis pellentesque. Aenean interdum lacinia fermentum.
+
+Sed vitae mauris dapibus libero imperdiet mattis et sit amet dolor. Interdum et malesuada fames ac ante ipsum primis in faucibus. Duis placerat nisi sed mi dictum, sed venenatis quam pulvinar. Phasellus non ante ut enim sollicitudin luctus vehicula quis augue. In vitae tortor vitae urna tempus consectetur eget sagittis orci. Curabitur hendrerit, mi quis ullamcorper convallis, purus tellus ullamcorper tortor, vel cursus nunc nulla at lectus. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+
+Duis non ultrices nunc. Aliquam et vestibulum urna. Pellentesque quis pharetra metus, ut pulvinar dolor. Aenean viverra porta semper. Nunc nec tincidunt lacus. Proin vestibulum turpis vel venenatis interdum. Maecenas semper eu urna vel cursus. Phasellus at sem nisl. Aliquam fringilla ultricies ligula, sit amet tempor nisi euismod eu.</string>
+    <string name="report">report</string>
+    <string name="title_activity_report">ReportActivity</string>
+    <string name="take_picture">Take Picture</string>
+    <string name="gps_location">GPS Location</string>
+    <string name="call_133">Call 133</string>
+    <string name="back">Back</string>
+    <string name="send">Send</string>
+    <string name="title_activity_criminalslist">Criminalslist</string>
+</resources>

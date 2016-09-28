@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="csi.fhict.org.csi_week_1.MainActivity"
+    style="@style/RelativeLayout">
+
+    <LinearLayout
+        android:id="@+id/linearLayout"
+        style="@style/PictureLayout">
+
+        <ImageView
+            android:id="@+id/imageView"
+            android:src="@drawable/images"
+            style="@style/Picture" />
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background ="@drawable/lineshape"/>
+    <TableLayout
+        android:id="@+id/tableLayout"
+        style="@style/TableDetails">
+
+        <TableRow style="@style/TableRowName">
+
+            <TextView
+                android:text="@string/name"
+                android:id="@+id/lblName"
+                style="@style/TextViewName" />
+
+            <TextView
+                android:text="@string/piet_vanderburg"
+                android:id="@+id/lblNameText"
+                style="@style/TextViewName2" />
+        </TableRow>
+
+        <TableRow style="@style/TableRowGender">
+
+            <TextView
+                android:text="@string/gender"
+                android:id="@+id/lblGender"
+                style="@style/TextViewGender" />
+
+            <TextView
+                android:text="@string/male"
+                android:id="@+id/lblGenderText"
+                style="@style/TextViewGender2" />
+        </TableRow>
+
+        <TableRow style="@style/TableRowAge">
+
+            <TextView
+                android:text="@string/age"
+                android:id="@+id/lblAge"
+                style="@style/TextViewAge" />
+
+            <TextView
+                android:text="@string/_45"
+                android:id="@+id/lblAgeText"
+                style="@style/TextViewAge2" />
+        </TableRow>
+
+        <TableRow style="@style/TableRowBounty">
+
+            <TextView
+                android:text="@string/bounty"
+                android:id="@+id/lblBounty"
+                style="@style/TextViewBounty" />
+
+            <TextView
+                android:text="@string/_30_000"
+                android:id="@+id/lblBountyText"
+                style="@style/TextViewBounty2" />
+        </TableRow>
+    </TableLayout>
+
+    <LinearLayout style="@style/LayoutScrollable">
+
+        <TextView
+            android:text="@string/details"
+            android:id="@+id/textView"
+            style="@style/TextViewDetails" />
+
+        <ScrollView
+            android:id="@+id/scrollView"
+            style="@style/Scrollable">
+
+            <TextView
+                android:text="@string/lorem"
+                android:id="@+id/textView2"
+                style="@style/TextViewScrollable" />
+        </ScrollView>
+
+        <Button
+            android:text="@string/report"
+            android:id="@+id/btnReport"
+            style="@style/ButtonReport" />
+    </LinearLayout>
+
+</RelativeLayout>
